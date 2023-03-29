@@ -2,7 +2,7 @@ import {getRequest, postRequest} from '../Utility';
 
 // const server = 'http://localhost:8080';
 // const server = 'https://raptor-trading.herokuapp.com';
-const server = 'https://raptor-trading-back.herokuapp.com';
+const server = 'https://cryptx-aqxu.onrender.com';
 
 export async function api_getCoinPrices() {
   try {
